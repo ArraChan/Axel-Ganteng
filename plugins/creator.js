@@ -20,16 +20,16 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Aditz Store Real
-${htjava} *✉️ Nama RL* : Aditz
+${htjava} *💌 Nama* : Axel
+${htjava} *✉️ Nama RL* : Axel Ganteng 😎
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 4 September 2004
-${htjava} *🎨 Umur* : 18
-${htjava} *🧮 Pendidikan* : SMK
+${htjava} *⏰ Tanggal lahir* : 17 September 2011
+${htjava} *🎨 Umur* : 11
+${htjava} *🧮 Pendidikan* : Esdeh
 ${htjava} *🧩 Hobby* : Mainin Perasaan Cwek, Hehe
 ${htjava} *💬 Sifat* : Dingin :v
-${htjava} *🗺️ Tinggal* : Bojonegoro, Jawa Timur
+${htjava} *🗺️ Tinggal* : Sidoarjo, Jawa Timur
 ${htjava} *❤️ Pacar* : ⏤͟͟͞͞⃟𖥂 Arra Chan >_
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}

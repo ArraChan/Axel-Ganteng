@@ -27,35 +27,35 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/tiaranrftria_?igshid=YmMyMTA2M2Y='
+global.sig = 'https://www.tiktok.com/@axelmaker2762?_t=8ZP2ZjaIaAs&_r=1'
 global.syt = '-'
 global.sgh = 'https://github.com/ArraChan'
 global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/6288217622407'
+global.swa = 'wa.me/62895354496565'
 global.swb = 'https://discord.gg'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '088217622407'
+global.pdana = '0895354496565'
 global.povo = '-'
-global.pgopay = '088217622407'
-global.ppulsa = '088217622407'
+global.pgopay = '0895354496565'
+global.ppulsa = '0895354496565'
 global.ppulsa2 = '081250998818'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288217622407'
-global.nomorown = '6288217622407'
-global.namebot = 'Aditz Botz'
-global.nameown = 'Aditz Store Real'
+global.nomorbot = '62895354496565'
+global.nomorown = '6281250998818'
+global.namebot = 'Axel'
+global.nameown = 'Clarra'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221354110'],
+  ['62895354496565'],
   ['6281250998818'],
-  ['6288217622407'],
-  ['6282155796071', 'Arra Chan >_', true]
+  ['6282155796071'],
+  ['6281250998818', 'Clarra', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['6281250998818'] // Want some help?
@@ -105,37 +105,37 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = '©Created By Aditz' //Main Watermark
-global.wm2 = 'Arra Chomel 😝'
-global.wm3 = 'Arra Chan >_ | By Arra'
-global.botdate = `➩ 𝗗𝗮𝘁𝗲: ${week} ${date}\n➩ 𝗧𝗶𝗺𝗲: ${wktuwib}`
-global.bottime = `➩ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Aditz Botz | ʙʏ ${global.nameown}`
-global.author = '⏤͟͟͞͞⃟𖥂 Arra Chan >_' 
-global.packname = 'Arra Chan >_'
+global.wm = '©Created By Axel' //Main Watermark
+global.wm2 = 'Arra'
+global.wm3 = 'Axel | By Bot Whatsapp'
+global.botdate = `⏤͟͟͞͞⃟𖥂 𝗗𝗮𝘁𝗲: ${week} ${date}\n⏤͟͟͞͞⃟𖥂 𝗧𝗶𝗺𝗲: ${wktuwib}`
+global.bottime = `⏤͟͟͞͞⃟𖥂 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
+global.titlebot = `Axel | ${global.nameown}`
+global.author = '⏤͟͟͞͞⃟𖥂 Clarra ◡̈⃝︎  ' 
+global.packname = 'Axel'
 global.danied = '「 ❗ 」 𝙀𝙧𝙤𝙧𝙧 𝙉𝙞𝙝 𝙆𝙖𝙠 😝'
-global.ultahowner = '17 September 2023'
+global.ultahowner = '22 February 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
-global.giflogo = 'https://ibb.co/3sJ0ybv'
+global.thumb = 'https://telegra.ph/file/88ca869bbb33dfec3bbfd.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/88ca869bbb33dfec3bbfd.jpg'
+global.giflogo = 'https://telegra.ph/file/88ca869bbb33dfec3bbfd.jpg'
 global.thumbbc = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.giflogo2 = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
+global.giflogo = 'https://telegra.ph/file/88ca869bbb33dfec3bbfd.jpg'
+global.giflogo2 = 'https://telegra.ph/file/88ca869bbb33dfec3bbfd.jpg'
+global.thumbs = ['https://telegra.ph/file/88ca869bbb33dfec3bbfd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya Arra Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Arra Chan 😜 Saya di rilis pada tanggal\n🗓 ️_11/1/2023_'
+global.botintro = 'Hallo, Kenalin saya Sendy Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Madan Saya di rilis pada tanggal\n🗓 ️_11/1/2023_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Aditz Store Real'
-global.umurowner = '18'
-global.asalowner = 'Jawa Timur, Bojonegoro'
-global.nomorowner = 'wa.me/6288217622407'
-global.pacarowner = '⏤͟͟͞͞⃟𖥂 Arra'
+global.nameowner = '⏤͟͟͞͞⃟𖥂 Clarra ◡̈⃝︎  '
+global.umurowner = '11'
+global.asalowner = 'Sidoarjo, Jawa Timur'
+global.nomorowner = 'wa.me/6281250998818'
+global.pacarowner = 'ArraChan 😝'
 
 /*============== TEXT ==============*/
 global.wait = '```「 ❗ 」 𝘽𝙚𝙣𝙩𝙖𝙧 𝙔𝙖 𝙆𝙖𝙠 😜...```'
@@ -165,7 +165,7 @@ global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ 
 // COMMAND MENU
 global.cmenut = '––––––『' //top
 global.cmenuh = '』––––––' //header
-global.cmenub = '┊𖥂︎ ' //body
+global.cmenub = '┊⏤͟͟͞͞⃟𖥂 ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
 global.cmenua = '' //after
 global.pmenus = '𖥂︎' //pembatas menu selector
@@ -174,7 +174,7 @@ global.htki = '––––『' //hiasan title kiri
 global.htka = '』––––' //hiasan title kanan
 global.lopr = 'Ⓟ'
 global.lolm = 'Ⓛ'
-global.htjava = '𖥂' //hiasan Doang :v
+global.htjava = '⏤͟͟͞͞⃟𖥂' //hiasan Doang :v
 
 global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
@@ -383,8 +383,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `NexEp`
+global.stickpack = 'By ArraChan 😝'
+global.stickauth = `Axel`
 
 global.multiplier = 38 // The higher, The harder levelup
 

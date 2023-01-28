@@ -557,7 +557,7 @@ esteh: 0,
                 if (!('welcome' in chat))
                     chat.welcome = true
                 if (!('detect' in chat))
-                    chat.detect = false
+                    chat.detect = true
                 if (!('sWelcome' in chat))
                     chat.sWelcome = ''
                 if (!('sBye' in chat))
@@ -588,7 +588,7 @@ esteh: 0,
                 global.db.data.chats[m.chat] = {
                     isBanned: false,
                     welcome: true,
-                    detect: false,
+                    detect: true,
                     sWelcome: '',
                     sBye: '',
                     sPromote: '',

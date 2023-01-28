@@ -1,26 +1,19 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let imgr = flaaa.getRandom()
-let text = `*SYARAT & KETENTUAN*
-    
-
-📮 S&K
-1. Jangan diperjual belikan Script ini
-2. Jangan salah gunakan script ini!
-3. Jangan lupa Subscribe Youtube
-4. Jangan di per jual belikan
-• Jika ada eror di sc hub https://wa.me/628812743180
-
---------Thanks to ✨---------
-Allah SWT
-My parents
-All Friends
-All Contributors
-All Creator Bot
-Adiwajshing
-Nurutomo
-BochilGaming`
+let text = `╭──────────────┈ 𒈒
+┊ *「 𝐒𝐞𝐧𝐝𝐲 」*
+╰┬─┈ ➩ *「 _𝙎𝙘𝙧𝙞𝙥𝙩_ 」*
+╭┤ *⏤͟͟͞͞⃟𖥂*  Jgn Diperjual Belikan Script ini
+┊│ *⏤͟͟͞͞⃟𖥂*  Jgn Salah Gunakan Script ini
+┊│ *⏤͟͟͞͞⃟𖥂*  Script ini Dibuat Oleh Madan
+┊│ *⏤͟͟͞͞⃟𖥂*  Pengen Jadi Bot? 
+┊│ *⏤͟͟͞͞⃟𖥂*  Silahkan Chat Nomor Berikut
+│╰────────────┈ ⳹
+┊  *「 𝐎𝐰𝐧𝐞𝐫 」*
+┊ 𝐓𝐞𝐤𝐚𝐧 ➩ wa.me/6281250998818
+╰═━────────────┈ ⳹`
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Script di sini', url: 'https://wa.me/628812743180'}},
+    {index: 1, urlButton: {displayText: 'Script di sini', url: 'https://wa.me/6281250998818'}},
 ]
 let tm = {
 text: text,
